@@ -1,4 +1,3 @@
-cat << 'EOF' > Main.java
 public class sum_7_8M {
     public static double find_sum() {
         double sum = 0.0;
@@ -11,7 +10,3 @@ public class sum_7_8M {
         System.out.println("Harmonic Sum (7M to 8M) = " + find_sum());
     }
 }
-EOF
-
-
-
