@@ -10,8 +10,4 @@ public class Sum_16M_17M {
         }
         return sum;
     }
-
-    public static void main(String[] args) {
-        System.out.println(find_sum());
-    }
 }
