@@ -1,8 +1,9 @@
-public class Sum_1_1M {
+
+public class Sum_29M_30M {
     public static double find_sum() {
         double sum = 0.0;
 
-        for (int i = 1; i <= 1_000_000; i++) {
+        for (int i = 29_000_001; i <= 30_000_000; i++) {
             sum += 1.0 / i;
         }
 
