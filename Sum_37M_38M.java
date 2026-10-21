@@ -11,8 +11,4 @@ public class Sum_37M_38M {
         
         return sum;
     }
-
-    public static void main(String[] args) {
-        System.out.println("Harmonic sum from 37M to 38M: " + find_sum());
-    }
 }
