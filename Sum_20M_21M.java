@@ -10,9 +10,3 @@ public class Sum_20M_21M {
 
         return sum;
     }
-
-    public static void main(String[] args) {
-        double result = find_sum();
-        System.out.println("Harmonic Sum (20M to 21M): " + result);
-    }
-}
