@@ -8,8 +8,4 @@ public class Sum_25M_26M {
         }
         return sum;
     }
-
-    public static void main(String[] args) {
-        System.out.println(find_sum());
-    }
 }
