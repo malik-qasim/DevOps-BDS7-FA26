@@ -7,8 +7,4 @@ public class Sum_5M_to_6M {
         }
         return sum;
     }
-
-    public static void main(String[] args) {
-        System.out.println(find_sum());
-    }
 }
