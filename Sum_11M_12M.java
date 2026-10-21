@@ -9,8 +9,3 @@ public class Sum_11M_12M {
 
         return sum;
     }
-
-    public static void main(String[] args) {
-        System.out.println("Harmonic Sum (11M to 12M) = " + find_sum());
-    }
-}
