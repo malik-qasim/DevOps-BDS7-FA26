@@ -1,3 +1,4 @@
+// Harmonic sum from 42,000,001 to 43,000,000 - Zobia Akbar
 public class Sum_42M_43M {
 
     public static double find_sum() {
