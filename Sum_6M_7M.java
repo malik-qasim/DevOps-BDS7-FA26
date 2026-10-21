@@ -4,9 +4,9 @@
  * Computes 1/start + 1/(start+1) + ... + 1/end (both ends included).
  * Default range: 6,000,000 to 7,000,000.
  *
- * Usage: java SUM_6M_7M [start] [end]
+ * Usage: java Sum_6M_7M [start] [end]
  */
-public class SUM_6M_7M {
+public class Sum_6M_7M {
 
     static final long START = 6_000_000L;
     static final long END = 7_000_000L;
