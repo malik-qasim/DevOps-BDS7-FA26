@@ -10,9 +10,4 @@ public class sum_3M_4M {
 
         return sum;
     }
-
-    public static void main(String[] args) {
-        System.out.println("Sum = " + find_sum());
-    }
 }
-
