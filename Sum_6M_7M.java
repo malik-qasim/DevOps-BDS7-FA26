@@ -1,3 +1,4 @@
+
 /**
  * Harmonic sum over a range of integers.
  *
@@ -10,6 +11,10 @@ public class Sum_6M_7M {
 
     static final long START = 6_000_000L;
     static final long END = 7_000_000L;
+    /** Harmonic sum of 6,000,000 to 7,000,000 (inclusive). Called by Main.java. */
+    public static double find_sum() {
+        return find_sum(START, END);
+    }
 
     /** Returns the sum of 1/n for n = start .. end (inclusive), using Kahan summation. */
     static double find_sum(long start, long end) {
