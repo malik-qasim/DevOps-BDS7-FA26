@@ -9,13 +9,4 @@ public class Sum_8M_9M {
 
         return sum;
     }
-
-    public static void main(String[] args) {
-        double result = find_sum();
-
-        System.out.println("Registration Number: FA23-BDS-036");
-        System.out.println("Range: 8,000,001 to 9,000,000");
-        System.out.println("Number of terms: 1,000,000");
-        System.out.println("Harmonic Sum: " + result);
-    }
 }
